@@ -196,7 +196,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 For any queries or support, please contact:
-- Email: anjali.developer@gmail.com
+- Email: anjalisinghmath@gmail.com
 - Project Repository: https://github.com/Anjali-1234-copilot/MediCare-Hospital-Management-System
 
 ## Acknowledgments
